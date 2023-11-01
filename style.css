@@ -8,6 +8,8 @@
         max-width: 300px;
         margin: auto;
         text-align: center;
+        border-radius: 7px;
+        margin-top: 50px;
       }
       
       .title {
